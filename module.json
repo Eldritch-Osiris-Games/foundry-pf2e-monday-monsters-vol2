@@ -1,16 +1,17 @@
 {
   "title": "Monday Monsters Vol. 2: Beasts, Botany and Beyond",
   "id": "foundry-pf2e-monday-monsters-vol2",
+  
   "description": "",
   "authors": [
     {
       "name": "Brett Jacob Tomko"
     }
   ],
-  "manifest": "",
-  "download": "",
-  "url": "",
-  "version": "0.9.0",
+  "manifest": "https://raw.githubusercontent.com/Eldritch-Osiris-Games/foundry-pf2e-monday-monsters-vol2/main/module.json",
+  "download": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-monday-monsters-vol2/archive/refs/heads/main.zip",
+  "url": "https://github.com/Eldritch-Osiris-Games/foundry-pf2e-monday-monsters-vol2",
+  "version": "1.0.0",
   "compatibility": {
     "minimum": "10",
     "verified": "10",
